@@ -1,1 +1,6 @@
 Inteligencia Artificial
+¿Qué es la inteligencia artificial?
+La inteligencia artificial (IA) es una tecnología que permite a las máquinas imitar la inteligencia humana, como aprender, razonar, reconocer cosas y tomar decisiones.
+Se usa en asistentes virtuales, autos autónomos, recomendaciones de Netflix, cámaras de seguridad inteligentes y mucho más.
+ejemplo: Gemini,chatgpt,copilot,etc. 
+La IA puede usarse para automatizar tareas.
